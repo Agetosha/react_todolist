@@ -49,7 +49,7 @@
 📦 npm (Package manager)
 🌐 GitHub Pages (Deployment)
 
-```
+
 
 ---
 
@@ -115,21 +115,18 @@ react_todolist/
 ```bash
 git clone [https://github.com/agetosha/to-do-list-react.git](https://github.com/agetosha/to-do-list-react.git)
 cd to-do-list-react
-
 ```
 
 ### 2. Install dependencies
 
 ```bash
 npm install
-
 ```
 
 ### 3. Run the development server
 
 ```bash
 npm start
-
 ```
 
 ### 4. Open in browser
@@ -157,12 +154,6 @@ Contributions, issues, and feature requests are welcome!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
